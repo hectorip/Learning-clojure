@@ -11,4 +11,12 @@
 (println read_vector)
 
 (def my-list (list :an :du :trois))  ; !!! Los nombres soportan guíones medios
-(println my-list)
+(println my-list)  ; las listas son de ligado siple
+
+(def read-list (read-string "(1 2 3)"))
+(println read-list)
+
+
+(def funky (read-string "(+ 21 21)"))  ; !! El código de Clojure son datos
+(println funky)
+(println (eval funky)) ; homoiconicity
