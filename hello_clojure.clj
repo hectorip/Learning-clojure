@@ -2,4 +2,4 @@
 
 (println "Clojure is beautiful")
 
-(pr-str "Clujer is sometimes weird"); Why does this not print when executing?
+(pr-str "Clojure is sometimes weird"); Why does this not print when executing?

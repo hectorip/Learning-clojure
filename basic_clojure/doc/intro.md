@@ -1,3 +1,3 @@
 # Introduction to basic_clojure
 
-TODO: write [great documentation](http://jacobian.org/writing/what-to-write/)
+This is a great project template [great documentation](http://jacobian.org/writing/what-to-write/)
