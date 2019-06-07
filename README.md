@@ -6,4 +6,6 @@ Incitado por la [Antología de programación funcional](https://pragprog.com/boo
 
 La principal razón por la que quiero aprender Clojure es porque corre sobre la JVM.
 
-Otra de las razones es que no se nadita de Lisp y Clojure es dialecto de Lisp.
+Otra de las razones es que no se nadita de Lisp y Clojure es un dialecto.
+
+Me gustaría poder entender bien por qué Lisp ha sido una influencia tan grande en el mundo de la programación y las ciencias de la computación en general.
