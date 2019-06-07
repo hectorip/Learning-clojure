@@ -13,3 +13,10 @@
 (println x)
 (make-printer-short two "hello")
 ; (two)
+
+
+; gran parte de Clojure está implementado en Clojure
+(def testz (macroexpand-1 '(defn hello [] (println ":D"))))
+(println testz) ; un defn es un def + fn
+(eval testz)
+(hello) ; Clojure (Lisp) está bastante loco
